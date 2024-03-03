@@ -1,5 +1,3 @@
-import React from 'react';
-
 const TextField = ({ label, value, onChange }) => (
   <div>
     <label>{label}</label>
