@@ -1,5 +1,3 @@
-import React from 'react';
-
 const RadioButton = ({ label, value, name, checked, onChange, className }) => {
 
   const sanitizedValue = value === null ? '' : value;
